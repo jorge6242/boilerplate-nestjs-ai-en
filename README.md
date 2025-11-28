@@ -107,15 +107,16 @@ Compatible with:
 💥 Copy and paste EXACTLY this to the agent:
 
 ```
-@FRD-00-master-orchestration.md
-@FRD-01-boilerplate-core-products.md
-@FRD-02-products-database.md
-@FRD-03-auth-security.md
-@FRD-04-unit-testing.md
+@FRD-00-master-orchestration.md@FRD-01-boilerplate-core-products.md@FRD-02-products-database.md@FRD-03-auth-security.md@FRD-04-unit-testing.md 
 
-nombre de carpeta: api-products
+folder name: api-products
 
-Inicia la orquestación.
+FRD-00-master-orchestration.md
+FRD-01-boilerplate-core-products.md
+FRD-02-products-persistence-typeorm.md
+FRD-03-unit-testing.md
+
+Start the orchestration.
 ```
 
 ---
