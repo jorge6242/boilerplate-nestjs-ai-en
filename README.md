@@ -1,4 +1,4 @@
-# 📘 FRD Orchestration — Technical Guide (Enterprise Edition)
+# 📘 FRD Orchestration — Technical Guide
 
 This repository implements a development workflow based on **FRDs (Functional Requirements Documents)** orchestrated by an AI agent (Windsurf / Antigravity / Claude Sonnet).  
 The goal: **generate a complete, reproducible, and fully automated NestJS backend**, with zero improvisation and strict execution rules.
